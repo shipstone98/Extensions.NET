@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipstone.ExtensionsTest", "Shipstone.ExtensionsTest\Shipstone.ExtensionsTest.csproj", "{9F3432EC-4712-4239-A201-B926644272FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipstone.Extensions", "Shipstone.Extensions\Shipstone.Extensions.csproj", "{B6D32267-8596-49E5-AFF5-55EE053CBC76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3432EC-4712-4239-A201-B926644272FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3432EC-4712-4239-A201-B926644272FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3432EC-4712-4239-A201-B926644272FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3432EC-4712-4239-A201-B926644272FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D32267-8596-49E5-AFF5-55EE053CBC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D32267-8596-49E5-AFF5-55EE053CBC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D32267-8596-49E5-AFF5-55EE053CBC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D32267-8596-49E5-AFF5-55EE053CBC76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
